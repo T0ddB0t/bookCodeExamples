@@ -1,2 +1,2 @@
 #ignoring vscode setting file
-setting.json
+.vscode/setting.json
